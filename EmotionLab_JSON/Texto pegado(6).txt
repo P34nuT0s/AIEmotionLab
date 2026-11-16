@@ -1,0 +1,385 @@
+json real con tus respuestas {
+      "s3_key": "data/2026-11-15/emotionlab_data_participante_20261115_181823_ff356148.json",
+      "timestamp_subida": "2026-11-15T22:07:57.111831",
+      "session_data": {
+        "idParticipante": "participante_20261115_181823_ff356148",
+        "fechaInicio": "2026-11-15 18:18:23",
+        "fechaFin": "",
+        "difficulty_level": "",
+        "facilCompletado": false,
+        "dificilCompletado": false,
+        "retryUsado": false,
+        "ultimoModoCompletado": "",
+        "respuestas": [
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "genero",
+            "textoPregunta": "\u00bfCon qu\u00e9 g\u00e9nero te identificas?",
+            "respuestaLabel": "Masculino",
+            "respuestaIndex": 0,
+            "timestamp": "2026-11-15 18:49:20.098"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "edad",
+            "textoPregunta": "\u00bfCu\u00e1l es tu edad?",
+            "respuestaLabel": "+17",
+            "respuestaIndex": 5,
+            "timestamp": "2026-11-15 18:49:21.077"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "sentir_hoy",
+            "textoPregunta": "\u00bfC\u00f3mo te sientes hoy?",
+            "respuestaLabel": "7",
+            "respuestaIndex": 2,
+            "timestamp": "2026-11-15 18:49:33.326"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "nerviosismo",
+            "textoPregunta": "\u00bfTe sientes nervioso?",
+            "respuestaLabel": "2",
+            "respuestaIndex": 7,
+            "timestamp": "2026-11-15 18:49:34.468"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "preocupacion",
+            "textoPregunta": "\u00bfTe sientes preocupado?",
+            "respuestaLabel": "6",
+            "respuestaIndex": 3,
+            "timestamp": "2026-11-15 18:49:28.036"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "preparacion",
+            "textoPregunta": "\u00bfTe sientes preparado?",
+            "respuestaLabel": "4",
+            "respuestaIndex": 5,
+            "timestamp": "2026-11-15 18:49:28.969"
+          }
+        ],
+        "eventos": [
+          {
+            "nombre": "session_started",
+            "fase": "inicio",
+            "payload": "",
+            "timestamp": "2026-11-15 18:18:23.919"
+          }
+        ]
+      }
+    },
+    {
+      "s3_key": "data/2026-11-15/emotionlab_data_participante_20261115_190829_4afa6ded.json",
+      "timestamp_subida": "2026-11-15T23:59:40.619643",
+      "session_data": {
+        "idParticipante": "participante_20261115_190829_4afa6ded",
+        "fechaInicio": "2026-11-15 19:08:29",
+        "fechaFin": "",
+        "difficulty_level": "",
+        "facilCompletado": false,
+        "dificilCompletado": false,
+        "retryUsado": false,
+        "ultimoModoCompletado": "",
+        "respuestas": [],
+        "eventos": [
+          {
+            "nombre": "session_started",
+            "fase": "inicio",
+            "payload": "",
+            "timestamp": "2026-11-15 19:08:29.631"
+          }
+        ]
+      }
+    },
+    {
+      "s3_key": "data/2026-11-15/emotionlab_data_participante_20261115_192919_209f585f.json",
+      "timestamp_subida": "2026-11-15T22:34:10.898828",
+      "session_data": {
+        "idParticipante": "participante_20261115_192919_209f585f",
+        "fechaInicio": "2026-11-15 19:29:19",
+        "fechaFin": "",
+        "difficulty_level": "",
+        "facilCompletado": false,
+        "dificilCompletado": false,
+        "retryUsado": false,
+        "ultimoModoCompletado": "",
+        "respuestas": [],
+        "eventos": [
+          {
+            "nombre": "session_started",
+            "fase": "inicio",
+            "payload": "",
+            "timestamp": "2026-11-15 19:29:19.080"
+          }
+        ]
+      }
+    },
+    {
+      "s3_key": "data/2026-11-15/emotionlab_data_participante_20261115_193054_426ecde3.json",
+      "timestamp_subida": "2026-11-15T22:35:26.352658",
+      "session_data": {
+        "idParticipante": "participante_20261115_193054_426ecde3",
+        "fechaInicio": "2026-11-15 19:30:54",
+        "fechaFin": "",
+        "difficulty_level": "",
+        "facilCompletado": false,
+        "dificilCompletado": false,
+        "retryUsado": false,
+        "ultimoModoCompletado": "",
+        "respuestas": [],
+        "eventos": [
+          {
+            "nombre": "session_started",
+            "fase": "inicio",
+            "payload": "",
+            "timestamp": "2026-11-15 19:30:54.128"
+          }
+        ]
+      }
+    },
+    {
+      "s3_key": "data/2026-11-15/emotionlab_data_participante_20261115_193213_7632edec.json",
+      "timestamp_subida": "2026-11-15T22:46:22.640371",
+      "session_data": {
+        "idParticipante": "participante_20261115_193213_7632edec",
+        "fechaInicio": "2026-11-15 19:32:13",
+        "fechaFin": "",
+        "difficulty_level": "",
+        "facilCompletado": false,
+        "dificilCompletado": false,
+        "retryUsado": false,
+        "ultimoModoCompletado": "",
+        "respuestas": [],
+        "eventos": [
+          {
+            "nombre": "session_started",
+            "fase": "inicio",
+            "payload": "",
+            "timestamp": "2026-11-15 19:32:13.075"
+          }
+        ]
+      }
+    },
+    {
+      "s3_key": "data/2026-11-15/emotionlab_data_participante_20261115_210006_95b9bdaf.json",
+      "timestamp_subida": "2026-11-16T01:09:09.186494",
+      "session_data": {
+        "idParticipante": "participante_20261115_210006_95b9bdaf",
+        "fechaInicio": "2026-11-15 21:00:07",
+        "fechaFin": "",
+        "difficulty_level": "",
+        "facilCompletado": false,
+        "dificilCompletado": false,
+        "retryUsado": false,
+        "ultimoModoCompletado": "",
+        "respuestas": [],
+        "eventos": [
+          {
+            "nombre": "session_started",
+            "fase": "inicio",
+            "payload": "",
+            "timestamp": "2026-11-15 21:00:07.146"
+          }
+        ]
+      }
+    },
+    {
+      "s3_key": "data/2026-11-15/emotionlab_data_participante_20261115_220926_47b2ec83.json",
+      "timestamp_subida": "2026-11-16T01:23:24.352670",
+      "session_data": {
+        "idParticipante": "participante_20261115_220926_47b2ec83",
+        "fechaInicio": "2026-11-15 22:09:26",
+        "fechaFin": "2026-11-15 22:23:18",
+        "difficulty_level": "dificil",
+        "facilCompletado": true,
+        "dificilCompletado": true,
+        "retryUsado": false,
+        "ultimoModoCompletado": "dificil",
+        "respuestas": [
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "sentir_hoy",
+            "textoPregunta": "\u00bfC\u00f3mo te sientes hoy?",
+            "respuestaLabel": "7",
+            "respuestaIndex": 2,
+            "timestamp": "2026-11-15 22:13:18.930"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "nerviosismo",
+            "textoPregunta": "\u00bfTe sientes nervioso?",
+            "respuestaLabel": "2",
+            "respuestaIndex": 7,
+            "timestamp": "2026-11-15 22:13:19.749"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "preocupacion",
+            "textoPregunta": "\u00bfTe sientes preocupado?",
+            "respuestaLabel": "5",
+            "respuestaIndex": 4,
+            "timestamp": "2026-11-15 22:13:20.403"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "preparacion",
+            "textoPregunta": "\u00bfTe sientes preparado?",
+            "respuestaLabel": "8",
+            "respuestaIndex": 1,
+            "timestamp": "2026-11-15 22:13:21.739"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "genero",
+            "textoPregunta": "\u00bfCon qu\u00e9 g\u00e9nero te identificas?",
+            "respuestaLabel": "Masculino",
+            "respuestaIndex": 0,
+            "timestamp": "2026-11-15 22:13:22.519"
+          },
+          {
+            "escena": "waiting_room_inicial",
+            "idPregunta": "edad",
+            "textoPregunta": "\u00bfCu\u00e1l es tu edad?",
+            "respuestaLabel": "+17",
+            "respuestaIndex": 5,
+            "timestamp": "2026-11-15 22:13:23.178"
+          },
+          {
+            "escena": "Retroalimentacion_Oficina",
+            "idPregunta": "sentir_hoy_cierre",
+            "textoPregunta": "\u00bfC\u00f3mo te sientes despu\u00e9s de presentar?",
+            "respuestaLabel": "9",
+            "respuestaIndex": 0,
+            "timestamp": "2026-11-15 22:18:15.287"
+          },
+          {
+            "escena": "Retroalimentacion_Oficina",
+            "idPregunta": "nerviosismo_cierre",
+            "textoPregunta": "\u00bfTe sientes nervioso?",
+            "respuestaLabel": "3",
+            "respuestaIndex": 6,
+            "timestamp": "2026-11-15 22:18:17.511"
+          },
+          {
+            "escena": "Retroalimentacion_Oficina",
+            "idPregunta": "satisfaccion_cierre",
+            "textoPregunta": "\u00bfTe sientes satisfecho?",
+            "respuestaLabel": "7",
+            "respuestaIndex": 2,
+            "timestamp": "2026-11-15 22:18:18.756"
+          },
+          {
+            "escena": "Retroalimentacion_Oficina",
+            "idPregunta": "aliviado_cierre",
+            "textoPregunta": "\u00bfTe sientes aliviado?",
+            "respuestaLabel": "3",
+            "respuestaIndex": 6,
+            "timestamp": "2026-11-15 22:18:19.790"
+          },
+          {
+            "escena": "Retroalimentacion_Salon",
+            "idPregunta": "sentir_hoy_cierre",
+            "textoPregunta": "\u00bfC\u00f3mo te sientes despu\u00e9s de presentar?",
+            "respuestaLabel": "9",
+            "respuestaIndex": 0,
+            "timestamp": "2026-11-15 22:23:15.312"
+          },
+          {
+            "escena": "Retroalimentacion_Salon",
+            "idPregunta": "nerviosismo_cierre",
+            "textoPregunta": "\u00bfTe sientes nervioso?",
+            "respuestaLabel": "7",
+            "respuestaIndex": 2,
+            "timestamp": "2026-11-15 22:23:16.063"
+          },
+          {
+            "escena": "Retroalimentacion_Salon",
+            "idPregunta": "satisfaccion_cierre",
+            "textoPregunta": "\u00bfTe sientes satisfecho?",
+            "respuestaLabel": "3",
+            "respuestaIndex": 6,
+            "timestamp": "2026-11-15 22:23:17.163"
+          },
+          {
+            "escena": "Retroalimentacion_Salon",
+            "idPregunta": "aliviado_cierre",
+            "textoPregunta": "\u00bfTe sientes aliviado?",
+            "respuestaLabel": "9",
+            "respuestaIndex": 0,
+            "timestamp": "2026-11-15 22:23:18.412"
+          }
+        ],
+        "eventos": [
+          {
+            "nombre": "session_started",
+            "fase": "inicio",
+            "payload": "",
+            "timestamp": "2026-11-15 22:09:26.861"
+          },
+          {
+            "nombre": "modo_completado",
+            "fase": "facil",
+            "payload": "",
+            "timestamp": "2026-11-15 22:15:39.265"
+          },
+          {
+            "nombre": "visita_retroalimentacion",
+            "fase": "visita_1",
+            "payload": "Oficina",
+            "timestamp": "2026-11-15 22:15:40.872"
+          },
+          {
+            "nombre": "breathing_technique_used",
+            "fase": "inicio",
+            "payload": "",
+            "timestamp": "2026-11-15 22:15:42.537"
+          },
+          {
+            "nombre": "breathing_technique_used",
+            "fase": "completado",
+            "payload": "",
+            "timestamp": "2026-11-15 22:17:02.138"
+          },
+          {
+            "nombre": "session_completed",
+            "fase": "cierre",
+            "payload": "",
+            "timestamp": "2026-11-15 22:18:19.791"
+          },
+          {
+            "nombre": "modo_completado",
+            "fase": "dificil",
+            "payload": "",
+            "timestamp": "2026-11-15 22:20:45.837"
+          },
+          {
+            "nombre": "visita_retroalimentacion",
+            "fase": "visita_2",
+            "payload": "Salon",
+            "timestamp": "2026-11-15 22:20:46.929"
+          },
+          {
+            "nombre": "breathing_technique_used",
+            "fase": "inicio",
+            "payload": "",
+            "timestamp": "2026-11-15 22:21:24.745"
+          },
+          {
+            "nombre": "breathing_technique_used",
+            "fase": "completado",
+            "payload": "",
+            "timestamp": "2026-11-15 22:22:44.356"
+          },
+          {
+            "nombre": "session_completed",
+            "fase": "cierre",
+            "payload": "",
+            "timestamp": "2026-11-15 22:23:18.413"
+          }
+        ]
+      }
+    }
+  ]
+}
